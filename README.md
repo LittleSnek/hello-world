@@ -1,2 +1,5 @@
 # hello-world
-A hello world project
+
+Hi fellow Mortals!
+This is my first GitHub project (Hello World project), but not  my first time coding tho.
+I practise c++.
